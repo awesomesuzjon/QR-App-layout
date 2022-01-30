@@ -1,0 +1,36 @@
+
+h1,h2,h3{
+
+color: #293345;
+font-weight: 700;
+   font-family: 'Sansita', sans-serif;
+   text-align: center;
+}
+
+p{
+  font-weight: 400;
+ color: #54565c;
+      font-family: 'Roboto Slab', serif;
+     Font-size : 12px;
+   text-align: center;
+
+}
+
+
+body{
+ background-color: #D5E1EF;
+}
+
+.scanner-div{
+ margin: 4em auto;
+ padding:1em;
+ width:17%;
+ background-color: white;
+ border-radius: 12px;
+}
+
+.scannerimgdiv img{
+ width:100%;
+ height:auto;
+ border-radius: 12px;
+}
